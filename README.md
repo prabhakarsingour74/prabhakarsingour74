@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/cafe-header.svg" alt="The Builders' Café — Prabhakar Singour" width="100%"/>
+<img src="builders-cafe/assets/cafe-header.svg" alt="The Builders' Café — Prabhakar Singour" width="100%"/>
 
 **A vintage Indian engineering workshop where chai is always brewing and ideas are always under construction.**
 
@@ -39,7 +39,7 @@ My work moves between **artificial intelligence, software engineering, research,
 <td width="50%" valign="top">
 
 <a href="https://github.com/prabhakarsingour74">
-<img src="assets/screenshots/nasovision-frame.svg" alt="NasoVision project frame" width="100%"/>
+<img src="builders-cafe/assets/screenshots/nasovision-frame.svg" alt="NasoVision project frame" width="100%"/>
 </a>
 
 **NASOVISION** · AI / COMPUTER VISION / HEALTHCARE
@@ -52,7 +52,7 @@ An AI-assisted nasal endoscopy platform exploring computer vision and analysis w
 <td width="50%" valign="top">
 
 <a href="https://github.com/prabhakarsingour74">
-<img src="assets/screenshots/arthasevak-frame.svg" alt="Arthasevak project frame" width="100%"/>
+<img src="builders-cafe/assets/screenshots/arthasevak-frame.svg" alt="Arthasevak project frame" width="100%"/>
 </a>
 
 **ARTHASEVAK** · AGENTIC AI / FINTECH / PRODUCT
@@ -67,7 +67,7 @@ An intelligent assistant concept for personal finance, expense awareness, docume
 <td width="50%" valign="top">
 
 <a href="https://github.com/prabhakarsingour74">
-<img src="assets/screenshots/3d-maps-frame.svg" alt="3D map generation project frame" width="100%"/>
+<img src="builders-cafe/assets/screenshots/3d-maps-frame.svg" alt="3D map generation project frame" width="100%"/>
 </a>
 
 **3D MAP GENERATION** · COMPUTER VISION / GEOMETRY
@@ -80,7 +80,7 @@ A pipeline exploring how 2D images can be transformed into 3D map representation
 <td width="50%" valign="top">
 
 <a href="https://github.com/prabhakarsingour74">
-<img src="assets/screenshots/wifi-simulator-frame.svg" alt="WiFi simulator project frame" width="100%"/>
+<img src="builders-cafe/assets/screenshots/wifi-simulator-frame.svg" alt="WiFi simulator project frame" width="100%"/>
 </a>
 
 **WIFI SIMULATOR** · NETWORKING / SIMULATION
