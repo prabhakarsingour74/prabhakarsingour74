@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#2b1c16"/><stop offset=".55" stop-color="#503324"/><stop offset="1" stop-color="#241914"/></linearGradient>
+ <pattern id="grain" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M0 8h14M24 31h18M7 40h5" stroke="#d4b17c" stroke-opacity=".10" stroke-width="1"/></pattern>
+ <linearGradient id="brass" x2="0" y2="1"><stop stop-color="#f0d18a"/><stop offset=".5" stop-color="#b77a39"/><stop offset="1" stop-color="#75451f"/></linearGradient>
+</defs>
+<rect width="1200" height="390" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="390" rx="20" fill="url(#grain)"/>
+<path d="M26 24h1148v342H26z" fill="none" stroke="#c99b58" stroke-width="2"/>
+<path d="M42 40h1116v310H42z" fill="none" stroke="#c99b58" stroke-opacity=".35"/>
+<!-- hanging sign -->
+<path d="M80 25v45M1120 25v45" stroke="#c99b58" stroke-width="4"/>
+<rect x="64" y="64" width="1072" height="190" rx="8" fill="#ead8b6" stroke="#a96f38" stroke-width="7"/>
+<rect x="77" y="77" width="1046" height="164" rx="4" fill="none" stroke="#8a5730" stroke-width="2"/>
+<text x="600" y="130" text-anchor="middle" fill="#4a2e20" font-family="Georgia,serif" font-size="22" letter-spacing="7">THE WORKSHOP &amp; CHAI HOUSE</text>
+<text x="600" y="190" text-anchor="middle" fill="#3a251b" font-family="Georgia,serif" font-weight="bold" font-size="53" letter-spacing="2">THE BUILDERS' CAFÉ</text>
+<text x="600" y="222" text-anchor="middle" fill="#89552f" font-family="Georgia,serif" font-size="17" letter-spacing="4">PRABHAKAR SINGOUR · ENGINEER · RESEARCHER · BUILDER</text>
+<!-- kettle -->
+<g transform="translate(112 265)">
+ <path d="M25 31Q15 2 47 0h65q30 3 23 31l-8 54H37z" fill="url(#brass)" stroke="#e8c47c" stroke-width="3"/>
+ <path d="M45 3q-5-32 29-32t33 32" fill="none" stroke="#d8ad61" stroke-width="7"/>
+ <path d="M154 35q38-4 39 22t-39 23" fill="none" stroke="#c58a45" stroke-width="9"/>
+ <path d="M22 34L0 50l22 13" fill="none" stroke="#c58a45" stroke-width="8"/>
+ <path d="M59 -12q-20-26 0-43M88 -12q-13-23 8-39" fill="none" stroke="#ead8b6" stroke-opacity=".75" stroke-width="4" stroke-linecap="round"/>
+ <path d="M47 50h76" stroke="#70431f" stroke-width="3"/>
+</g>
+<!-- tea cup -->
+<g transform="translate(340 291)">
+ <path d="M0 0h98l-9 49q-40 24-80 0z" fill="#d9c6a4" stroke="#a96f38" stroke-width="4"/>
+ <path d="M98 9q45-12 39 20t-46 20" fill="none" stroke="#d9c6a4" stroke-width="9"/>
+ <path d="M13 12h72" stroke="#9c6034" stroke-width="3"/>
+ <path d="M27 -10q-17-22 0-39M53 -10q-16-24 4-43M75 -10q-11-20 8-34" fill="none" stroke="#ead8b6" stroke-opacity=".8" stroke-width="4" stroke-linecap="round"/>
+</g>
+<!-- old radio -->
+<g transform="translate(815 280)">
+ <rect x="0" y="0" width="170" height="72" rx="9" fill="#6b432b" stroke="#d2a45e" stroke-width="4"/>
+ <rect x="14" y="13" width="83" height="44" rx="4" fill="#2b211b" stroke="#b9854a" stroke-width="2"/>
+ <path d="M22 22h66M22 30h66M22 38h66M22 46h66" stroke="#c9a36a" stroke-width="2" opacity=".8"/>
+ <circle cx="126" cy="35" r="19" fill="#c99b58" stroke="#e8d4a8" stroke-width="3"/>
+ <circle cx="126" cy="35" r="5" fill="#533321"/>
+ <circle cx="154" cy="14" r="4" fill="#d9b16b"/>
+ <path d="M10 0l-8-25M20 0l8-28" stroke="#d9b16b" stroke-width="3"/>
+</g>
+<!-- tools and blueprint -->
+<g transform="translate(1015 276)" stroke="#d4b17c" stroke-width="5" fill="none" stroke-linecap="round">
+ <path d="M0 10l58 62M48 4l-44 44M25 0l-25 25M60 0l-20 20"/>
+ <path d="M5 68l-5 5M52 66l10 10"/>
+</g>
+<text x="600" y="378" text-anchor="middle" fill="#e7d5b5" font-family="Georgia,serif" font-style="italic" font-size="16">Chai on the stove. Ideas on the wall. Code on the workbench.</text>
+</svg>

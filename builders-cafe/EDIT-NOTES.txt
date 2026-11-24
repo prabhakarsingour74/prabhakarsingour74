@@ -1,0 +1,23 @@
+THE BUILDERS' CAFÉ — EDIT NOTES
+
+1. Copy README.md into the root of the profile repository:
+   https://github.com/prabhakarsingour74/prabhakarsingour74
+
+2. Keep the assets/ folder beside README.md. GitHub renders the local SVG artwork from these relative paths.
+
+3. The four project frames are intentionally labelled placeholders, NOT real app screenshots.
+   Replace:
+   - assets/screenshots/nasovision-frame.svg
+   - assets/screenshots/arthasevak-frame.svg
+   - assets/screenshots/3d-maps-frame.svg
+   - assets/screenshots/wifi-simulator-frame.svg
+   with real screenshot files and update the README image paths.
+
+4. Update YOUR_LINKEDIN_URL and YOUR_EMAIL_ADDRESS.
+
+5. The Vibe Coding Lab link is set to:
+   https://github.com/prabhakarsingour74/vibe-coding-lab
+   Change it if the repository slug differs.
+
+6. GitHub README supports Markdown/HTML but not arbitrary CSS or JavaScript.
+   The header is static SVG artwork. Animated GIF/typing effects can be added later.
