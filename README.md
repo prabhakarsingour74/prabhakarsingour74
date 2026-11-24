@@ -1,113 +1,116 @@
-# PRABHAKAR SINGOUR
+<div align="center">THE BUILDERS' CAFÉ
+PRABHAKAR SINGOUR
+ENGINEER  ·  RESEARCHER  ·  BUILDER
 
-### Engineer · Researcher · Builder
+A place for ideas, experiments, and things worth building.
 
-I build, investigate and experiment with technology — turning ideas into systems, research into understanding, and concepts into working software.
+EST. 2026   ·   BHOPAL / INDIA   ·   OPEN FOR IDEAS
+</div><table>
+<tr>
+<td width="58%" valign="top">Welcome in.
+I'm a computer science engineer interested in how intelligent systems work — and in turning that understanding into useful things.
 
-My interests lie at the intersection of **Artificial Intelligence, Computer Science, and Systems Engineering.**
+My work moves between AI, software engineering, research, and systems. I enjoy taking an idea apart, understanding the problem beneath it, and building something real from what I learn.
 
-[LinkedIn](YOUR_LINKEDIN) · [Email](YOUR_EMAIL) · [GitHub](https://github.com/YOUR_USERNAME)
+M.Tech, Computer Science — IIIT Delhi
+B.Tech, Computer Science — Oriental College of Technology
+</td>
+<td width="42%" valign="top" align="center">TODAY'S HOUSE BLEND
+Curiosity, brewed into craft.
 
----
+A little research.
+A little engineering.
+A lot of iteration.
 
-## 01 / ABOUT
+THINK → BUILD → TEST → REFINE
+</td>
+</tr>
+</table>THE GALLERY   /   Selected work
+A few projects from the workbench. Each frame is a starting point — open the repository to see what is behind it.
+<table>
+<tr>
+<td width="50%" valign="top">01   NASOVISION
+AI-assisted nasal endoscopy platform
 
-I'm a Computer Science engineer with a background in research and hands-on software development.
+Exploring computer vision and AI-assisted analysis for nasal endoscopy, with an emphasis on making clinical workflows easier to understand.
 
-My work moves between exploring intelligent systems, understanding technical problems, and building practical solutions. I enjoy going beyond using existing tools — understanding how things work, experimenting with approaches, and creating things of my own.
+AI COMPUTER VISION HEALTHCARE
+<!-- Replace the href below with the public repository URL. -->
 
-I hold an M.Tech in Computer Science from IIIT Delhi and a B.Tech in Computer Science from Oriental College of Technology, Bhopal.
+Explore the project →
+</td>
+<td width="50%" valign="top">02   ARTHASEVAK
+Intelligent finance & life assistant
 
-I value engineering fundamentals, independent thinking, technical depth, and continuous experimentation.
+An exploration of an AI assistant for personal finance, expense awareness, document understanding, and everyday productivity.
 
----
+AGENTIC AI FINTECH PRODUCT
+<!-- Replace the href below with the public repository URL. -->
 
-## 02 / AREAS OF EXPLORATION
+Explore the project →
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">03   3D MAP GENERATION
+From 2D images to 3D representations
 
-| Domain | Interests |
-|:--|:--|
-| Artificial Intelligence | Machine Learning, Deep Learning, Generative AI |
-| Intelligent Systems | Agentic AI, Multi-Agent Systems, Reasoning |
-| Research | Multi-Agent Path Finding, Coordination, MARL |
-| Software Engineering | Backend Systems, APIs, Application Development |
-| Systems | Linux, Operating Systems, Docker, Infrastructure |
+A computer-vision pipeline exploring geometric cues and classical techniques to construct 3D map representations from 2D images.
 
----
+COMPUTER VISION GEOMETRY PYTHON
+<!-- Replace the href below with the public repository URL. -->
 
-## 03 / SELECTED WORK
+Explore the project →
+</td>
+<td width="50%" valign="top">04   WIFI SIMULATOR
+Exploring wireless network behaviour
 
-**NASOVISION**  
-*AI-assisted healthcare technology*
+A simulation project focused on Wi-Fi 4, Wi-Fi 5, and Wi-Fi 6, including access points and connected users.
 
-Exploring computer vision and intelligent analysis for nasal endoscopy, with a focus on supporting clinical workflows.
+NETWORKING SIMULATION SYSTEMS
+<!-- Replace the href below with the public repository URL. -->
 
-**ARTHASEVAK**  
-*Intelligent personal finance and life management*
+Explore the project →
+</td>
+</tr>
+</table>THE READING ROOM   /   Research
+Some questions keep me at the table longer than others:
+- How can multiple agents coordinate in complex, changing environments?
+- How can autonomous systems plan, communicate, and make reliable decisions?
+- How can learning-based methods work alongside strong systems and algorithmic foundations?
+Areas of interest
 
-An exploration of AI-powered assistance for financial tracking, document understanding, productivity and everyday decision-making.
+Multi-Agent Systems   Multi-Agent Path Finding   Multi-Agent Reinforcement Learning
+Intelligent Systems   Machine Learning   Agentic AI
+THE WORKSHOP   /   Experiments
+Vibe Coding Lab
+An evolving collection of independent builds, prototypes, AI-assisted experiments, and ideas that deserve a closer look.
 
-**3D MAP GENERATION**  
-*Computer Vision · Computational Geometry*
+Not every experiment starts with a roadmap. Some start with a question, a rough sketch, or the urge to see whether something can be made to work.
 
-A pipeline exploring the transformation of 2D images into 3D map representations using classical computer vision techniques.
+Build. Break. Understand. Rebuild.
+<!-- Replace YOUR_USERNAME with your GitHub username. -->
 
-**WIFI SIMULATOR**  
-*Networking · Simulation*
+Visit Vibe Coding Lab →
+BEHIND THE COUNTER   /   Tools of the trade
+At the counter	What I use
+Languages	Python · C++ · C · JavaScript · TypeScript · SQL
+AI & data	PyTorch · scikit-learn · NumPy · Pandas
+Development	Next.js · React · Node.js · Git
+Systems	Linux · Docker · MySQL
 
-A simulation environment exploring WiFi 4, WiFi 5 and WiFi 6 networks, access points and connected users.
 
----
-
-## 04 / EXPERIMENTS & BUILDS
-
-### Vibe Coding Lab
-
-An evolving collection of independent projects, prototypes, AI-assisted builds and technical experiments.
-
-A space to explore ideas, test possibilities and build without waiting for a perfect plan.
-
-**Build. Break. Understand. Rebuild.**
-
----
-
-## 05 / RESEARCH INTERESTS
-
-- Multi-Agent Systems and Coordination
-- Multi-Agent Path Finding (MAPF)
-- Multi-Agent Reinforcement Learning
-- Intelligent and Autonomous Systems
-- AI-driven Software and Applications
-
-I am particularly interested in how intelligent agents interact, coordinate and make decisions in complex environments.
-
----
-
-## 06 / TECHNOLOGY
-
-**Languages**  
-Python · C++ · C · JavaScript · TypeScript · SQL
-
-**AI / ML**  
-PyTorch · Scikit-learn · NumPy · Pandas
-
-**Development**  
-Next.js · React · Node.js · Git
-
-**Systems & Tools**  
-Linux · Docker · GitHub · MySQL
-
----
-
-## 07 / CURRENTLY EXPLORING
-
+Tools change. Understanding lasts.
+TODAY'S SPECIAL   /   Currently exploring
 - Building practical applications with modern AI systems.
-- Understanding agentic architectures and intelligent workflows.
+- Exploring agentic architectures and intelligent workflows.
 - Strengthening software engineering and systems fundamentals.
-- Exploring research problems in multi-agent intelligence.
+- Studying coordination and decision-making in multi-agent environments.
+<div align="center">PULL UP A CHAIR.
+Have an interesting problem, a thoughtful paper, or an idea worth testing?
 
----
+I'd be glad to hear about it.
 
-<sub>Independent thinking. Continuous learning. Practical engineering.</sub>
+LinkedIn   ·   Email   ·   GitHub
 
-**PRABHAKAR SINGOUR**  
-© 2026
+<sub>THE BUILDERS' CAFÉ  ·  INDEPENDENT THINKING, CONTINUOUS EXPERIMENTATION.</sub>
+</div>
