@@ -1,116 +1,101 @@
-<div align="center">THE BUILDERS' CAFÉ
-PRABHAKAR SINGOUR
-ENGINEER  ·  RESEARCHER  ·  BUILDER
+<div align="center"><img src="assets/cafe-header.svg" alt="The Builders' Café — Prabhakar Singour" width="100%"/>A vintage Indian engineering workshop where chai is always brewing and ideas are always under construction.
 
-A place for ideas, experiments, and things worth building.
 
-EST. 2026   ·   BHOPAL / INDIA   ·   OPEN FOR IDEAS
-</div><table>
-<tr>
-<td width="58%" valign="top">Welcome in.
+
+Chai on the stove. Ideas on the wall. Code on the workbench.
+</div>☕ 01 / THE CHAI COUNTER
+Namaste. I'm Prabhakar.
+
 I'm a computer science engineer interested in how intelligent systems work — and in turning that understanding into useful things.
 
-My work moves between AI, software engineering, research, and systems. I enjoy taking an idea apart, understanding the problem beneath it, and building something real from what I learn.
+My work moves between artificial intelligence, software engineering, research, and systems. I like understanding a problem from its foundations, experimenting with possible solutions, and building something tangible from what I learn.
+- 🎓 M.Tech, Computer Science — IIIT Delhi
+- 🎓 B.Tech, Computer Science — Oriental College of Technology, Bhopal
+- 📍 Bhopal, India
+The house blend: curiosity, technical depth, and a willingness to take things apart before putting them back together.
 
-M.Tech, Computer Science — IIIT Delhi
-B.Tech, Computer Science — Oriental College of Technology
-</td>
-<td width="42%" valign="top" align="center">TODAY'S HOUSE BLEND
-Curiosity, brewed into craft.
-
-A little research.
-A little engineering.
-A lot of iteration.
-
-THINK → BUILD → TEST → REFINE
-</td>
-</tr>
-</table>THE GALLERY   /   Selected work
-A few projects from the workbench. Each frame is a starting point — open the repository to see what is behind it.
+🖼️ 02 / THE PROJECT WALL
+Four frames from the workbench. These are temporary exhibit plaques for now; replace each with a real screenshot from the running project.
 <table>
 <tr>
-<td width="50%" valign="top">01   NASOVISION
-AI-assisted nasal endoscopy platform
+<td width="50%" valign="top"><a href="https://github.com/prabhakarsingour74">
+<img src="assets/screenshots/nasovision-frame.svg" alt="NasoVision project frame" width="100%"/>
+</a>
+NASOVISION · AI / COMPUTER VISION / HEALTHCARE
 
-Exploring computer vision and AI-assisted analysis for nasal endoscopy, with an emphasis on making clinical workflows easier to understand.
+An AI-assisted nasal endoscopy platform exploring computer vision and analysis workflows for ENT applications.
 
-AI COMPUTER VISION HEALTHCARE
-<!-- Replace the href below with the public repository URL. -->
-
-Explore the project →
+Find the project in my repositories →
 </td>
-<td width="50%" valign="top">02   ARTHASEVAK
-Intelligent finance & life assistant
+<td width="50%" valign="top"><a href="https://github.com/prabhakarsingour74">
+<img src="assets/screenshots/arthasevak-frame.svg" alt="Arthasevak project frame" width="100%"/>
+</a>
+ARTHASEVAK · AGENTIC AI / FINTECH / PRODUCT
 
-An exploration of an AI assistant for personal finance, expense awareness, document understanding, and everyday productivity.
+An intelligent assistant concept for personal finance, expense awareness, document understanding, and everyday productivity.
 
-AGENTIC AI FINTECH PRODUCT
-<!-- Replace the href below with the public repository URL. -->
-
-Explore the project →
+Find the project in my repositories →
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">03   3D MAP GENERATION
-From 2D images to 3D representations
+<td width="50%" valign="top"><a href="https://github.com/prabhakarsingour74">
+<img src="assets/screenshots/3d-maps-frame.svg" alt="3D map generation project frame" width="100%"/>
+</a>
+3D MAP GENERATION · COMPUTER VISION / GEOMETRY
 
-A computer-vision pipeline exploring geometric cues and classical techniques to construct 3D map representations from 2D images.
+A pipeline exploring how 2D images can be transformed into 3D map representations using classical computer vision and geometric techniques.
 
-COMPUTER VISION GEOMETRY PYTHON
-<!-- Replace the href below with the public repository URL. -->
-
-Explore the project →
+Find the project in my repositories →
 </td>
-<td width="50%" valign="top">04   WIFI SIMULATOR
-Exploring wireless network behaviour
+<td width="50%" valign="top"><a href="https://github.com/prabhakarsingour74">
+<img src="assets/screenshots/wifi-simulator-frame.svg" alt="WiFi simulator project frame" width="100%"/>
+</a>
+WIFI SIMULATOR · NETWORKING / SIMULATION
 
-A simulation project focused on Wi-Fi 4, Wi-Fi 5, and Wi-Fi 6, including access points and connected users.
+A simulation project exploring Wi-Fi 4, Wi-Fi 5, and Wi-Fi 6, including access points and connected users.
 
-NETWORKING SIMULATION SYSTEMS
-<!-- Replace the href below with the public repository URL. -->
-
-Explore the project →
+Find the project in my repositories →
 </td>
 </tr>
-</table>THE READING ROOM   /   Research
-Some questions keep me at the table longer than others:
-- How can multiple agents coordinate in complex, changing environments?
-- How can autonomous systems plan, communicate, and make reliable decisions?
-- How can learning-based methods work alongside strong systems and algorithmic foundations?
-Areas of interest
-
-Multi-Agent Systems   Multi-Agent Path Finding   Multi-Agent Reinforcement Learning
-Intelligent Systems   Machine Learning   Agentic AI
-THE WORKSHOP   /   Experiments
+</table>📰 03 / THE NEWSPAPER CORNER
+The questions on today's front page.
+- Multi-Agent Systems — How do independent agents coordinate in shared environments?
+- Multi-Agent Path Finding — How can multiple agents plan collision-free paths?
+- Multi-Agent Reinforcement Learning — How can agents learn to cooperate or compete?
+- Intelligent Systems — How do we build systems that reason, plan, and act reliably?
+MAPF   MARL   MULTI-AGENT COORDINATION   AGENTIC AI   MACHINE LEARNING
+🔧 04 / THE WORKBENCH
 Vibe Coding Lab
-An evolving collection of independent builds, prototypes, AI-assisted experiments, and ideas that deserve a closer look.
+A corner for independent builds, prototypes, AI-assisted experiments, and ideas that deserve to be tested.
 
-Not every experiment starts with a roadmap. Some start with a question, a rough sketch, or the urge to see whether something can be made to work.
+Not every experiment begins with a perfect blueprint. Some begin with a rough sketch, a stubborn question, or a late cup of chai.
 
 Build. Break. Understand. Rebuild.
-<!-- Replace YOUR_USERNAME with your GitHub username. -->
 
-Visit Vibe Coding Lab →
-BEHIND THE COUNTER   /   Tools of the trade
-At the counter	What I use
+Step into Vibe Coding Lab →
+🧰 05 / TOOLS ON THE BENCH
+Drawer	Tools
 Languages	Python · C++ · C · JavaScript · TypeScript · SQL
-AI & data	PyTorch · scikit-learn · NumPy · Pandas
-Development	Next.js · React · Node.js · Git
+AI & Data	PyTorch · scikit-learn · NumPy · Pandas
+Application Building	Next.js · React · Node.js · Git
 Systems	Linux · Docker · MySQL
 
 
 Tools change. Understanding lasts.
-TODAY'S SPECIAL   /   Currently exploring
+📻 06 / THE OLD RADIO — CURRENT FREQUENCY
+Currently tuning into:
 - Building practical applications with modern AI systems.
 - Exploring agentic architectures and intelligent workflows.
 - Strengthening software engineering and systems fundamentals.
 - Studying coordination and decision-making in multi-agent environments.
-<div align="center">PULL UP A CHAIR.
+<div align="center">🫖 CHAI IS READY. PULL UP A CHAIR.
 Have an interesting problem, a thoughtful paper, or an idea worth testing?
 
 I'd be glad to hear about it.
 
-LinkedIn   ·   Email   ·   GitHub
 
-<sub>THE BUILDERS' CAFÉ  ·  INDEPENDENT THINKING, CONTINUOUS EXPERIMENTATION.</sub>
+
+
+THE BUILDERS' CAFÉ · BHOPAL, INDIA
+Independent thinking. Continuous experimentation.
 </div>
